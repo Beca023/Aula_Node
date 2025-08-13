@@ -20,5 +20,4 @@ else if (IMC>35.0&&IMC<39.9){
 }
 else{
 console.log ("Obesidade grau III")
-
 }
