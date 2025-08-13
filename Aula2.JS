@@ -1,5 +1,5 @@
-let peso = 190
-let altura = 1.55
+let peso = 53
+let altura = 1.73
 
 const IMC = (peso/altura**2)
 
@@ -20,4 +20,5 @@ else if (IMC>35.0&&IMC<39.9){
 }
 else{
 console.log ("Obesidade grau III")
+
 }
